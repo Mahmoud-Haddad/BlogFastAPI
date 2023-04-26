@@ -1,6 +1,6 @@
 ﻿# BlogFastAPI
 
-This is a training prject using FastAPI.
+This is a project aimed at practicing and developing skills using FastAPI.
 
 The system comprises the following features:
 
